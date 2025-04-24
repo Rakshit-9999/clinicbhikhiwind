@@ -281,11 +281,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     
                     <a href="#" class="d-flex align-items-center ml-auto mr-4">
                       <span class="icon-phone mr-2"></span>
-                      <span class="d-none d-md-inline-block "style="text-shadow: 2px 2px 4px #FFFFFF; color: black;">90419-11360</span>
+                      <span class="d-none d-md-inline-block "style="text-shadow: 2px 2px 4px #FFFFFF; color: black;">79862-16497</span>
                     </a>
                     <a href="#" class="d-flex align-items-center">
                       <span class="icon-envelope mr-2"></span>
-                      <span class="d-none d-md-inline-block" style="text-shadow: 2px 2px 4px #FFFFFF; color: black;">mdclinicphagwarapb@gmail.com</span>
+                      <span class="d-none d-md-inline-block" style="text-shadow: 2px 2px 4px #FFFFFF; color: black;">bhikhiwinddentalclinic@gmail.com</span>
                     </a>
                   </div>
                 </div>
@@ -296,16 +296,16 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <div class="container py-1">
               <div class="row align-items-center">
                 <div class="col-2">
-    <h4 class="mb-0 site-logo" style="text-shadow: 2px 2px 4px #000000;"><a href="index.html"><strong> Modern Dental Clinic Phagwara</strong></a></h4>            </div>
+    <h4 class="mb-0 site-logo" style="text-shadow: 2px 2px 4px #000000;"><a href="index.html"><strong> Dental Clinic Bhikhiwind</strong></a></h4>            </div>
                 <div class="col-10">
                   <nav class="site-navigation text-right" role="navigation">
                     <div class="container">
                       <div class="d-inline-block d-lg-none ml-md-0 mr-auto py-3"><a href="#" class="site-menu-toggle js-menu-toggle text-white"><span class="icon-menu h3"></span></a></div>
     
                       <ul class="site-menu js-clone-nav d-none d-lg-block">
-                        <li><a href="contact.php">Book</a></li>
+                        
                         <li><a href="index.php">Home</a></li>
-                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="about.php">About Us</a></li>
                         <li><a href="services.html">Services</a></li>
                         <li><a href="contact.php">Contact</a></li>
                     <li class="active"><a href="feedback.php">Feedback</a></li>
@@ -572,7 +572,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="col-md-12">
                       <div class="custom-control custom-checkbox">
                         <input type="checkbox" class="custom-control-input" id="recommend" name="recommend" <?php echo isset($_POST['recommend']) ? 'checked' : ''; ?>>
-                        <label class="custom-control-label" for="recommend">I would recommend Modern Dental Clinic to friends and family</label>
+                        <label class="custom-control-label" for="recommend">I would recommend Dental Clinic Bhikhiwind to friends and family</label>
                       </div>
                     </div>
                   </div>
@@ -581,7 +581,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="col-md-12">
                       <div class="custom-control custom-checkbox">
                         <input type="checkbox" class="custom-control-input" id="contact-permission" name="contact-permission" <?php echo isset($_POST['contact-permission']) ? 'checked' : ''; ?>>
-                        <label class="custom-control-label" for="contact-permission">I give permission for Modern Dental Clinic to contact me regarding my feedback</label>
+                        <label class="custom-control-label" for="contact-permission">I give permission for Dental Clinic Bhikhiwind to contact me regarding my feedback</label>
                       </div>
                     </div>
                   </div>
@@ -608,7 +608,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <h2 class="footer-heading mb-4">Quick Links</h2>
             <ul class="list-unstyled">
               <li><a href="index.php">Home</a></li>
-              <li><a href="about.html">About Us</a></li>
+              <li><a href="about.php">About Us</a></li>
               <li><a href="services.html">Services</a></li>
               <li><a href="contact.php">Contact</a></li>
               <li><a href="feedback.php">Feedback</a></li>
@@ -620,16 +620,16 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
               <a href="https://www.instagram.com/moderndentalclinicphagwara?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" class="instagram"><span class="icon-instagram"></span></a>
             </div>
             <div class="mt-4">
-              <p class="mb-2"><span class="icon-room mr-2"></span> Model Town, Phagwara, Punjab 144401</p>
-              <p class="mb-2"><span class="icon-phone mr-2"></span>90419-11360</p>
-              <p class="mb-2"><span class="icon-envelope mr-2"></span>mdclinicphagwarapb@gmail.com</p>
+              <p class="mb-2"><span class="icon-room mr-2"></span>Bhikhiwind</p>
+              <p class="mb-2"><span class="icon-phone mr-2"></span>79862-16497</p>
+              <p class="mb-2"><span class="icon-envelope mr-2"></span>bhikhiwinddentalclinic@gmail.com</p>
             </div>
           </div>
         </div>
         <div class="row text-center">
           <div class="col-md-12">
             <div class="border-top pt-5">
-            Copyright &copy; <?php echo $current_year; ?> All rights reserved to <a href="https://rakshitsharma.netlify.app/">Rakshit Sharma</a>
+            Copyright &copy; <?php echo $current_year; ?> All rights reserved to <a>Tooth&Tech</a>
 
             </div>
           </div>
